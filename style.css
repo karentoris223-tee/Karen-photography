@@ -1,0 +1,68 @@
+*{
+    border: 2px;
+    padding: 0vw;
+}
+
+.body {
+    color: brown;
+    background-color: powderblue;
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    color: black;
+    text-overflow: clip;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+h3 {
+    color: black;
+    border-bottom: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1.6rem;
+}
+
+/* gallery */
+.gallery {
+    display: flex;
+    gap: 30px;
+    margin:20px
+}
+ 
+img {
+    border-spacing: 15px;
+    border-radius: 8px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+/* contact*/
+ul {
+    list-style-type: circle;
+    padding:0;
+    font-size: 1.0rem;
+    color: black;
+    text-decoration: dotted;
+}
+
+
+
+
+
+
+
+
+
+
