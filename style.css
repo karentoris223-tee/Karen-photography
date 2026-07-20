@@ -1,14 +1,8 @@
-*{
-    border: 2px;
-    padding: 0vw;
-}
-
-.body {
+body {
     background-color: powderblue;
     color: brown;
     font-family: sans-serif;
     line-height: 1.6;
-    margin: 20px;
 }
 
 /* Headings */
